@@ -1,6 +1,6 @@
-# Multithread - Exemplo
+# Multithread múltiplo - Exemplo
 
-## Exemplo de gerenciamento multithread com processamentos múltiplos de itens
+### Exemplo de gerenciamento multithread com processamentos múltiplos de itens
 
 O que este código faz:
 
