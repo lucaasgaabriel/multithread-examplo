@@ -1,2 +1,2 @@
 # multithread-examplo
-Exemplo de gerenciamento multihread de gerenciamento múltiplo
+Exemplo de gerenciamento multithread com processamentos múltiplos de itens
