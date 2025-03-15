@@ -1,4 +1,4 @@
-# Multithread múltiplo - Exemplo
+# Multithread com paralelismo - Exemplo
 
 ### Exemplo de gerenciamento multithread com processamentos múltiplos de itens
 
